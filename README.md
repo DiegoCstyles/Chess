@@ -35,7 +35,7 @@ Open the `index.html` file in a web browser to view the chessboard. The chess pi
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for improvements, feel free to open an issue or submit a pull request. See the [Contribution Guidelines](CONTRIBUTING.md) for more information.
+Contributions are welcome!
 
 ## Contact
 

@@ -20,7 +20,7 @@ True Chess is a basic representation of a chessboard with pieces, providing a vi
 No specific installation is required for this project. Simply clone the repository or download the HTML, CSS, and JavaScript files to your local machine.
 
 ```bash
-git clone https://github.com/your-username/chess.git
+git clone https://github.com/DiegoCstyles/Chess.git
 ```
 
 ## Usage
